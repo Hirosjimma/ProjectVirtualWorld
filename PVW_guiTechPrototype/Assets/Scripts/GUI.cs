@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Health : MonoBehaviour {
+public class GUI : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
